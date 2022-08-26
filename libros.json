@@ -1,0 +1,42 @@
+[
+
+{
+    "nombre": "El Principito",
+    "autor": "Antoine de saint-exupery",
+    "editorial": "Salamandra",
+    "num de paginas": 96,
+    "idioma": "EspaÑol"
+},
+{
+    "nombre": "Harry Potter y la camara secreta",
+    "autor": "J.K.Rowling",
+    "editorial": "Salamandra",
+    "num de paginas": 400,
+    "idioma": "EspaÑol"
+},
+{
+    "nombre": "Harry Potter y la priedra filosofal",
+    "autor": "J.K.Rowling",
+    "editorial": "Salamandra",
+    "num de paginas": 400,
+    "idioma": "EspaÑol"
+},
+{
+    "nombre": "Harry Potter y el prisionero de azkaban",
+    "autor": "J.K.Rowling",
+    "editorial": "Salamandra",
+    "num de paginas": 400,
+    "idioma": "EspaÑol"
+},
+{
+    "nombre": "Harry potter y la orden del fenix",
+    "autor": "J.K.Rowling",
+    "editorial": "Salamandra",
+    "num de paginas": 400,
+    "idioma": "EspaÑol"
+}
+
+
+
+
+]
